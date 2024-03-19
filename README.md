@@ -1,5 +1,11 @@
 # PDF to Text Extractor
 
+
+https://github.com/AaTekle/PDFEXTRACT/assets/108105300/098c9d9d-3660-48ed-928b-779e1c26ba3a
+
+
+
+
 PDF to Text Extractor is a simple Flask web application that allows users to extract text from PDF files. It provides a user-friendly interface for uploading PDF files and extracting text from them.
 
 ## Features
