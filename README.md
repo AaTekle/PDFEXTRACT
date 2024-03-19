@@ -36,7 +36,3 @@ PDF Text Extractor, simple Flask web application that allows you (yes you) to ex
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README according to your preferences and add any additional information as needed.
