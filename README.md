@@ -26,7 +26,7 @@ PDF Text Extractor, simple Flask web application that allows you (yes you) to ex
 5. Upload any PDF file using the provided button/form.
 6. Click the "Extract Text" button to extract text from the uploaded PDF file.
 
-(Note: Ctrl + C if you want the app to stop running within the localhost)
+(Note: Ctrl + C if you want the app to stop running within the terminal (localhost)
 
 ## Dependencies
 
